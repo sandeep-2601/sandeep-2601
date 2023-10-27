@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Python Developer
-- 🌱 I’m currently learning React and AWS
+- 🔭 I’m currently working as a Java Developer
+- 🌱 I’m currently learning SpringBoot and AWS
 - 👯 I’m looking to collaborate on full stack web development applications 
 - 📫 How to reach me: kp.sandeep884@gmail.com
 
